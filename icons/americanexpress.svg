@@ -1,1 +1,8 @@
 <svg width="400" height="110"><rect width="300" height="100" style="fill:rgb(200%, 200%, 1%);stroke-width:3;stroke:rgb(0,0,0)" /></svg>
+<svg width="400" height="110"><rect width="300" height="100" style="fill:peru;stroke-width:3;stroke:rgb(0,0,0)" /></svg>
+<svg width="400" height="110"><rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)" /></svg>
+<circle fill="#CD853F icc-color(acmecmyk, 0.11, 0.48, 0.83, 0.00)"/>
+<circle fill="rgb(205,133,63)"/>
+<circle fill="peru"/>
+<circle fill="rgb(80.392%, 52.157%, 24.706%)"/>
+<circle fill="#CD853F"/>
